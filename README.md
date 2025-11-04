@@ -131,3 +131,5 @@
 ## Инструкция по запуску
    ```bash
    dotnet run --project ./HSEBank/HSEBank.csproj
+```
+verevka8 & lapa25 forever
